@@ -1,0 +1,181 @@
+State,region_type,year,accidents,ranking,prev_year_accidents,yoy_change,yoy_pct_change,rolling_2yr_avg,rolling_3yr_avg,total_accidents,national_share_pct,trend_direction,risk_score,risk_category
+Andaman & Nicobar Islands,State,2019,230,31.0,,,,230.0,230.0,456959,0.05,Stable,13.01,Low
+Andaman & Nicobar Islands,State,2020,141,30.0,230.0,-89.0,-38.7,185.5,185.5,372181,0.04,Decreasing,13.01,Low
+Andaman & Nicobar Islands,State,2021,115,34.0,141.0,-26.0,-18.44,128.0,162.0,412432,0.03,Decreasing,13.01,Low
+Andaman & Nicobar Islands,State,2022,141,34.0,115.0,26.0,22.61,128.0,132.33,461312,0.03,Increasing,13.01,Low
+Andaman & Nicobar Islands,State,2023,143,34.0,141.0,2.0,1.42,142.0,133.0,480583,0.03,Increasing,13.01,Low
+Andhra Pradesh,State,2019,21992,8.0,,,,21992.0,21992.0,456959,4.81,Stable,33.23,Low
+Andhra Pradesh,State,2020,19509,7.0,21992.0,-2483.0,-11.29,20750.5,20750.5,372181,5.24,Decreasing,33.23,Low
+Andhra Pradesh,State,2021,21556,7.0,19509.0,2047.0,10.49,20532.5,21019.0,412432,5.23,Increasing,33.23,Low
+Andhra Pradesh,State,2022,21249,9.0,21556.0,-307.0,-1.42,21402.5,20771.33,461312,4.61,Decreasing,33.23,Low
+Andhra Pradesh,State,2023,19949,9.0,21249.0,-1300.0,-6.12,20599.0,20918.0,480583,4.15,Decreasing,33.23,Low
+Arunachal Pradesh,State,2019,237,30.0,,,,237.0,237.0,456959,0.05,Stable,19.43,Low
+Arunachal Pradesh,State,2020,134,32.0,237.0,-103.0,-43.46,185.5,185.5,372181,0.04,Decreasing,19.43,Low
+Arunachal Pradesh,State,2021,283,28.0,134.0,149.0,111.19,208.5,218.0,412432,0.07,Increasing,19.43,Low
+Arunachal Pradesh,State,2022,227,31.0,283.0,-56.0,-19.79,255.0,214.67,461312,0.05,Decreasing,19.43,Low
+Arunachal Pradesh,State,2023,287,29.0,227.0,60.0,26.43,257.0,265.67,480583,0.06,Increasing,19.43,Low
+Assam,State,2019,8350,16.0,,,,8350.0,8350.0,456959,1.83,Stable,22.19,Low
+Assam,State,2020,6595,16.0,8350.0,-1755.0,-21.02,7472.5,7472.5,372181,1.77,Decreasing,22.19,Low
+Assam,State,2021,7411,16.0,6595.0,816.0,12.37,7003.0,7452.0,412432,1.8,Increasing,22.19,Low
+Assam,State,2022,7023,16.0,7411.0,-388.0,-5.24,7217.0,7009.67,461312,1.52,Decreasing,22.19,Low
+Assam,State,2023,7421,16.0,7023.0,398.0,5.67,7222.0,7285.0,480583,1.54,Increasing,22.19,Low
+Bihar,State,2019,10007,15.0,,,,10007.0,10007.0,456959,2.19,Stable,25.28,Low
+Bihar,State,2020,8639,15.0,10007.0,-1368.0,-13.67,9323.0,9323.0,372181,2.32,Decreasing,25.28,Low
+Bihar,State,2021,9553,15.0,8639.0,914.0,10.58,9096.0,9399.67,412432,2.32,Increasing,25.28,Low
+Bihar,State,2022,10801,14.0,9553.0,1248.0,13.06,10177.0,9664.33,461312,2.34,Increasing,25.28,Low
+Bihar,State,2023,11014,14.0,10801.0,213.0,1.97,10907.5,10456.0,480583,2.29,Increasing,25.28,Low
+Chandigarh,Union Territory,2019,305,29.0,,,,305.0,305.0,456959,0.07,Stable,6.9,Low
+Chandigarh,Union Territory,2020,159,29.0,305.0,-146.0,-47.87,232.0,232.0,372181,0.04,Decreasing,6.9,Low
+Chandigarh,Union Territory,2021,208,31.0,159.0,49.0,30.82,183.5,224.0,412432,0.05,Increasing,6.9,Low
+Chandigarh,Union Territory,2022,237,30.0,208.0,29.0,13.94,222.5,201.33,461312,0.05,Increasing,6.9,Low
+Chandigarh,Union Territory,2023,182,31.0,237.0,-55.0,-23.21,209.5,209.0,480583,0.04,Decreasing,6.9,Low
+Chhattisgarh,State,2019,13899,11.0,,,,13899.0,13899.0,456959,3.04,Stable,27.88,Low
+Chhattisgarh,State,2020,11656,11.0,13899.0,-2243.0,-16.14,12777.5,12777.5,372181,3.13,Decreasing,27.88,Low
+Chhattisgarh,State,2021,12375,11.0,11656.0,719.0,6.17,12015.5,12643.33,412432,3.0,Increasing,27.88,Low
+Chhattisgarh,State,2022,13279,12.0,12375.0,904.0,7.31,12827.0,12436.67,461312,2.88,Increasing,27.88,Low
+Chhattisgarh,State,2023,13468,12.0,13279.0,189.0,1.42,13373.5,13040.67,480583,2.8,Increasing,27.88,Low
+Dadra & Nagar Haveli,State,2019,68,34.0,,,,68.0,68.0,456959,0.01,Stable,10.92,Low
+Dadra & Nagar Haveli,State,2020,100,33.0,68.0,32.0,47.06,84.0,84.0,372181,0.03,Increasing,10.92,Low
+Dadra & Nagar Haveli,State,2021,140,33.0,100.0,40.0,40.0,120.0,102.67,412432,0.03,Increasing,10.92,Low
+Dadra & Nagar Haveli,State,2022,196,33.0,140.0,56.0,40.0,168.0,145.33,461312,0.04,Increasing,10.92,Low
+Dadra & Nagar Haveli,State,2023,182,31.0,196.0,-14.0,-7.14,189.0,172.67,480583,0.04,Decreasing,10.92,Low
+Daman & Diu,State,2019,69,33.0,,,,69.0,69.0,456959,0.02,Stable,,Unknown
+Daman & Diu,State,2022,0,37.0,69.0,-69.0,-100.0,34.5,34.5,461312,0.0,Decreasing,,Unknown
+Delhi,Union Territory,2019,5610,19.0,,,,5610.0,5610.0,456959,1.23,Stable,19.81,Low
+Delhi,Union Territory,2020,4178,20.0,5610.0,-1432.0,-25.53,4894.0,4894.0,372181,1.12,Decreasing,19.81,Low
+Delhi,Union Territory,2021,4720,20.0,4178.0,542.0,12.97,4449.0,4836.0,412432,1.14,Increasing,19.81,Low
+Delhi,Union Territory,2022,5652,19.0,4720.0,932.0,19.75,5186.0,4850.0,461312,1.23,Increasing,19.81,Low
+Delhi,Union Territory,2023,5834,19.0,5652.0,182.0,3.22,5743.0,5402.0,480583,1.21,Increasing,19.81,Low
+Goa,State,2019,3440,21.0,,,,3440.0,3440.0,456959,0.75,Stable,14.3,Low
+Goa,State,2020,2375,21.0,3440.0,-1065.0,-30.96,2907.5,2907.5,372181,0.64,Decreasing,14.3,Low
+Goa,State,2021,2849,21.0,2375.0,474.0,19.96,2612.0,2888.0,412432,0.69,Increasing,14.3,Low
+Goa,State,2022,3011,21.0,2849.0,162.0,5.69,2930.0,2745.0,461312,0.65,Increasing,14.3,Low
+Goa,State,2023,2846,21.0,3011.0,-165.0,-5.48,2928.5,2902.0,480583,0.59,Decreasing,14.3,Low
+Gujarat,State,2019,17046,10.0,,,,17046.0,17046.0,456959,3.73,Stable,31.69,Low
+Gujarat,State,2020,13398,10.0,17046.0,-3648.0,-21.4,15222.0,15222.0,372181,3.6,Decreasing,31.69,Low
+Gujarat,State,2021,15186,10.0,13398.0,1788.0,13.35,14292.0,15210.0,412432,3.68,Increasing,31.69,Low
+Gujarat,State,2022,15751,10.0,15186.0,565.0,3.72,15468.5,14778.33,461312,3.41,Increasing,31.69,Low
+Gujarat,State,2023,16349,10.0,15751.0,598.0,3.8,16050.0,15762.0,480583,3.4,Increasing,31.69,Low
+Haryana,State,2019,10944,14.0,,,,10944.0,10944.0,456959,2.39,Stable,24.26,Low
+Haryana,State,2020,9431,14.0,10944.0,-1513.0,-13.82,10187.5,10187.5,372181,2.53,Decreasing,24.26,Low
+Haryana,State,2021,9933,14.0,9431.0,502.0,5.32,9682.0,10102.67,412432,2.41,Increasing,24.26,Low
+Haryana,State,2022,10429,15.0,9933.0,496.0,4.99,10181.0,9931.0,461312,2.26,Increasing,24.26,Low
+Haryana,State,2023,10463,15.0,10429.0,34.0,0.33,10446.0,10275.0,480583,2.18,Increasing,24.26,Low
+Himachal Pradesh,State,2019,2873,22.0,,,,2873.0,2873.0,456959,0.63,Stable,11.7,Low
+Himachal Pradesh,State,2020,2239,22.0,2873.0,-634.0,-22.07,2556.0,2556.0,372181,0.6,Decreasing,11.7,Low
+Himachal Pradesh,State,2021,2404,22.0,2239.0,165.0,7.37,2321.5,2505.33,412432,0.58,Increasing,11.7,Low
+Himachal Pradesh,State,2022,2597,22.0,2404.0,193.0,8.03,2500.5,2413.33,461312,0.56,Increasing,11.7,Low
+Himachal Pradesh,State,2023,2253,22.0,2597.0,-344.0,-13.25,2425.0,2418.0,480583,0.47,Decreasing,11.7,Low
+Jammu and Kashmir,Union Territory,2019,5796,18.0,,,,5796.0,5796.0,456959,1.27,Stable,20.37,Low
+Jammu and Kashmir,Union Territory,2020,4860,18.0,5796.0,-936.0,-16.15,5328.0,5328.0,372181,1.31,Decreasing,20.37,Low
+Jammu and Kashmir,Union Territory,2021,5452,18.0,4860.0,592.0,12.18,5156.0,5369.33,412432,1.32,Increasing,20.37,Low
+Jammu and Kashmir,Union Territory,2022,6092,18.0,5452.0,640.0,11.74,5772.0,5468.0,461312,1.32,Increasing,20.37,Low
+Jammu and Kashmir,Union Territory,2023,6298,17.0,6092.0,206.0,3.38,6195.0,5947.33,480583,1.31,Increasing,20.37,Low
+Jharkhand,State,2019,5217,20.0,,,,5217.0,5217.0,456959,1.14,Stable,19.11,Low
+Jharkhand,State,2020,4405,19.0,5217.0,-812.0,-15.56,4811.0,4811.0,372181,1.18,Decreasing,19.11,Low
+Jharkhand,State,2021,4728,19.0,4405.0,323.0,7.33,4566.5,4783.33,412432,1.15,Increasing,19.11,Low
+Jharkhand,State,2022,5175,20.0,4728.0,447.0,9.45,4951.5,4769.33,461312,1.12,Increasing,19.11,Low
+Jharkhand,State,2023,5315,20.0,5175.0,140.0,2.71,5245.0,5072.67,480583,1.11,Increasing,19.11,Low
+Karnataka,State,2019,40658,5.0,,,,40658.0,40658.0,456959,8.9,Stable,63.28,High
+Karnataka,State,2020,34178,4.0,40658.0,-6480.0,-15.94,37418.0,37418.0,372181,9.18,Decreasing,63.28,High
+Karnataka,State,2021,34647,4.0,34178.0,469.0,1.37,34412.5,36494.33,412432,8.4,Increasing,63.28,High
+Karnataka,State,2022,39762,5.0,34647.0,5115.0,14.76,37204.5,36195.67,461312,8.62,Increasing,63.28,High
+Karnataka,State,2023,43440,5.0,39762.0,3678.0,9.25,41601.0,39283.0,480583,9.04,Increasing,63.28,High
+Kerala,State,2019,41111,4.0,,,,41111.0,41111.0,456959,9.0,Stable,68.54,High
+Kerala,State,2020,27877,5.0,41111.0,-13234.0,-32.19,34494.0,34494.0,372181,7.49,Decreasing,68.54,High
+Kerala,State,2021,33296,5.0,27877.0,5419.0,19.44,30586.5,34094.67,412432,8.07,Increasing,68.54,High
+Kerala,State,2022,43910,3.0,33296.0,10614.0,31.88,38603.0,35027.67,461312,9.52,Increasing,68.54,High
+Kerala,State,2023,48091,3.0,43910.0,4181.0,9.52,46000.5,41765.67,480583,10.01,Increasing,68.54,High
+Ladakh,Union Territory,2021,236,30.0,,,,236.0,236.0,412432,0.06,Stable,7.14,Low
+Ladakh,Union Territory,2022,374,28.0,236.0,138.0,58.47,305.0,305.0,461312,0.08,Increasing,7.14,Low
+Ladakh,Union Territory,2023,289,28.0,374.0,-85.0,-22.73,331.5,299.67,480583,0.06,Decreasing,7.14,Low
+Lakshadweep,Union Territory,2019,1,36.0,,,,1.0,1.0,456959,0.0,Stable,0.0,Low
+Lakshadweep,Union Territory,2020,1,35.0,1.0,0.0,0.0,1.0,1.0,372181,0.0,Stable,0.0,Low
+Lakshadweep,Union Territory,2021,4,36.0,1.0,3.0,300.0,2.5,2.0,412432,0.0,Increasing,0.0,Low
+Lakshadweep,Union Territory,2022,3,36.0,4.0,-1.0,-25.0,3.5,2.67,461312,0.0,Decreasing,0.0,Low
+Lakshadweep,Union Territory,2023,1,36.0,3.0,-2.0,-66.67,2.0,2.67,480583,0.0,Decreasing,0.0,Low
+Madhya Pradesh,State,2019,50669,2.0,,,,50669.0,50669.0,456959,11.09,Stable,74.64,High
+Madhya Pradesh,State,2020,45266,2.0,50669.0,-5403.0,-10.66,47967.5,47967.5,372181,12.16,Decreasing,74.64,High
+Madhya Pradesh,State,2021,48877,2.0,45266.0,3611.0,7.98,47071.5,48270.67,412432,11.85,Increasing,74.64,High
+Madhya Pradesh,State,2022,54432,2.0,48877.0,5555.0,11.37,51654.5,49525.0,461312,11.8,Increasing,74.64,High
+Madhya Pradesh,State,2023,55327,2.0,54432.0,895.0,1.64,54879.5,52878.67,480583,11.51,Increasing,74.64,High
+Maharashtra,State,2019,32925,6.0,,,,32925.0,32925.0,456959,7.21,Stable,53.21,Moderate
+Maharashtra,State,2020,24971,6.0,32925.0,-7954.0,-24.16,28948.0,28948.0,372181,6.71,Decreasing,53.21,Moderate
+Maharashtra,State,2021,29477,6.0,24971.0,4506.0,18.04,27224.0,29124.33,412432,7.15,Increasing,53.21,Moderate
+Maharashtra,State,2022,33383,6.0,29477.0,3906.0,13.25,31430.0,29277.0,461312,7.24,Increasing,53.21,Moderate
+Maharashtra,State,2023,35243,6.0,33383.0,1860.0,5.57,34313.0,32701.0,480583,7.33,Increasing,53.21,Moderate
+Manipur,State,2019,672,25.0,,,,672.0,672.0,456959,0.15,Stable,7.53,Low
+Manipur,State,2020,432,27.0,672.0,-240.0,-35.71,552.0,552.0,372181,0.12,Decreasing,7.53,Low
+Manipur,State,2021,366,27.0,432.0,-66.0,-15.28,399.0,490.0,412432,0.09,Decreasing,7.53,Low
+Manipur,State,2022,508,26.0,366.0,142.0,38.8,437.0,435.33,461312,0.11,Increasing,7.53,Low
+Manipur,State,2023,398,26.0,508.0,-110.0,-21.65,453.0,424.0,480583,0.08,Decreasing,7.53,Low
+Meghalaya,State,2019,482,27.0,,,,482.0,482.0,456959,0.11,Stable,10.42,Low
+Meghalaya,State,2020,214,28.0,482.0,-268.0,-55.6,348.0,348.0,372181,0.06,Decreasing,10.42,Low
+Meghalaya,State,2021,245,29.0,214.0,31.0,14.49,229.5,313.67,412432,0.06,Increasing,10.42,Low
+Meghalaya,State,2022,246,29.0,245.0,1.0,0.41,245.5,235.0,461312,0.05,Increasing,10.42,Low
+Meghalaya,State,2023,223,30.0,246.0,-23.0,-9.35,234.5,238.0,480583,0.05,Decreasing,10.42,Low
+Mizoram,State,2019,62,35.0,,,,62.0,62.0,456959,0.01,Stable,7.54,Low
+Mizoram,State,2020,53,34.0,62.0,-9.0,-14.52,57.5,57.5,372181,0.01,Decreasing,7.54,Low
+Mizoram,State,2021,69,35.0,53.0,16.0,30.19,61.0,61.33,412432,0.02,Increasing,7.54,Low
+Mizoram,State,2022,133,35.0,69.0,64.0,92.75,101.0,85.0,461312,0.03,Increasing,7.54,Low
+Mizoram,State,2023,106,35.0,133.0,-27.0,-20.3,119.5,102.67,480583,0.02,Decreasing,7.54,Low
+Nagaland,State,2019,358,28.0,,,,358.0,358.0,456959,0.08,Stable,3.32,Low
+Nagaland,State,2020,500,25.0,358.0,142.0,39.66,429.0,429.0,372181,0.13,Increasing,3.32,Low
+Nagaland,State,2021,746,25.0,500.0,246.0,49.2,623.0,534.67,412432,0.18,Increasing,3.32,Low
+Nagaland,State,2022,489,27.0,746.0,-257.0,-34.45,617.5,578.33,461312,0.11,Decreasing,3.32,Low
+Nagaland,State,2023,303,27.0,489.0,-186.0,-38.04,396.0,512.67,480583,0.06,Decreasing,3.32,Low
+Odisha,State,2019,11064,13.0,,,,11064.0,11064.0,456959,2.42,Stable,26.59,Low
+Odisha,State,2020,9817,13.0,11064.0,-1247.0,-11.27,10440.5,10440.5,372181,2.64,Decreasing,26.59,Low
+Odisha,State,2021,10983,13.0,9817.0,1166.0,11.88,10400.0,10621.33,412432,2.66,Increasing,26.59,Low
+Odisha,State,2022,11663,13.0,10983.0,680.0,6.19,11323.0,10821.0,461312,2.53,Increasing,26.59,Low
+Odisha,State,2023,11992,13.0,11663.0,329.0,2.82,11827.5,11546.0,480583,2.5,Increasing,26.59,Low
+Puducherry,Union Territory,2019,1392,23.0,,,,1392.0,1392.0,456959,0.3,Stable,16.64,Low
+Puducherry,Union Territory,2020,969,24.0,1392.0,-423.0,-30.39,1180.5,1180.5,372181,0.26,Decreasing,16.64,Low
+Puducherry,Union Territory,2021,1049,24.0,969.0,80.0,8.26,1009.0,1136.67,412432,0.25,Increasing,16.64,Low
+Puducherry,Union Territory,2022,1181,24.0,1049.0,132.0,12.58,1115.0,1066.33,461312,0.26,Increasing,16.64,Low
+Puducherry,Union Territory,2023,1308,24.0,1181.0,127.0,10.75,1244.5,1179.33,480583,0.27,Increasing,16.64,Low
+Punjab,State,2019,6348,17.0,,,,6348.0,6348.0,456959,1.39,Stable,20.02,Low
+Punjab,State,2020,5203,17.0,6348.0,-1145.0,-18.04,5775.5,5775.5,372181,1.4,Decreasing,20.02,Low
+Punjab,State,2021,5871,17.0,5203.0,668.0,12.84,5537.0,5807.33,412432,1.42,Increasing,20.02,Low
+Punjab,State,2022,6138,17.0,5871.0,267.0,4.55,6004.5,5737.33,461312,1.33,Increasing,20.02,Low
+Punjab,State,2023,6269,18.0,6138.0,131.0,2.13,6203.5,6092.67,480583,1.3,Increasing,20.02,Low
+Rajasthan,State,2019,23480,7.0,,,,23480.0,23480.0,456959,5.14,Stable,41.2,Moderate
+Rajasthan,State,2020,19114,9.0,23480.0,-4366.0,-18.59,21297.0,21297.0,372181,5.14,Decreasing,41.2,Moderate
+Rajasthan,State,2021,20951,9.0,19114.0,1837.0,9.61,20032.5,21181.67,412432,5.08,Increasing,41.2,Moderate
+Rajasthan,State,2022,23614,7.0,20951.0,2663.0,12.71,22282.5,21226.33,461312,5.12,Increasing,41.2,Moderate
+Rajasthan,State,2023,24694,7.0,23614.0,1080.0,4.57,24154.0,23086.33,480583,5.14,Increasing,41.2,Moderate
+Sikkim,State,2019,162,32.0,,,,162.0,162.0,456959,0.04,Stable,9.27,Low
+Sikkim,State,2020,138,31.0,162.0,-24.0,-14.81,150.0,150.0,372181,0.04,Decreasing,9.27,Low
+Sikkim,State,2021,155,32.0,138.0,17.0,12.32,146.5,151.67,412432,0.04,Increasing,9.27,Low
+Sikkim,State,2022,211,32.0,155.0,56.0,36.13,183.0,168.0,461312,0.05,Increasing,9.27,Low
+Sikkim,State,2023,182,31.0,211.0,-29.0,-13.74,196.5,182.67,480583,0.04,Decreasing,9.27,Low
+Tamil Nadu,State,2019,62685,1.0,,,,62685.0,62685.0,456959,13.72,Stable,88.71,Very High
+Tamil Nadu,State,2020,49844,1.0,62685.0,-12841.0,-20.48,56264.5,56264.5,372181,13.39,Decreasing,88.71,Very High
+Tamil Nadu,State,2021,55682,1.0,49844.0,5838.0,11.71,52763.0,56070.33,412432,13.5,Increasing,88.71,Very High
+Tamil Nadu,State,2022,64105,1.0,55682.0,8423.0,15.13,59893.5,56543.67,461312,13.9,Increasing,88.71,Very High
+Tamil Nadu,State,2023,67213,1.0,64105.0,3108.0,4.85,65659.0,62333.33,480583,13.99,Increasing,88.71,Very High
+Telangana,State,2019,21570,9.0,,,,21570.0,21570.0,456959,4.72,Stable,39.54,Moderate
+Telangana,State,2020,19172,8.0,21570.0,-2398.0,-11.12,20371.0,20371.0,372181,5.15,Decreasing,39.54,Moderate
+Telangana,State,2021,21315,8.0,19172.0,2143.0,11.18,20243.5,20685.67,412432,5.17,Increasing,39.54,Moderate
+Telangana,State,2022,21619,8.0,21315.0,304.0,1.43,21467.0,20702.0,461312,4.69,Increasing,39.54,Moderate
+Telangana,State,2023,22903,8.0,21619.0,1284.0,5.94,22261.0,21945.67,480583,4.77,Increasing,39.54,Moderate
+Tripura,State,2019,655,26.0,,,,655.0,655.0,456959,0.14,Stable,13.23,Low
+Tripura,State,2020,466,26.0,655.0,-189.0,-28.85,560.5,560.5,372181,0.13,Decreasing,13.23,Low
+Tripura,State,2021,479,26.0,466.0,13.0,2.79,472.5,533.33,412432,0.12,Increasing,13.23,Low
+Tripura,State,2022,575,25.0,479.0,96.0,20.04,527.0,506.67,461312,0.12,Increasing,13.23,Low
+Tripura,State,2023,577,25.0,575.0,2.0,0.35,576.0,543.67,480583,0.12,Increasing,13.23,Low
+Uttar Pradesh,State,2019,42572,3.0,,,,42572.0,42572.0,456959,9.32,Stable,63.86,High
+Uttar Pradesh,State,2020,34243,3.0,42572.0,-8329.0,-19.56,38407.5,38407.5,372181,9.2,Decreasing,63.86,High
+Uttar Pradesh,State,2021,37729,3.0,34243.0,3486.0,10.18,35986.0,38181.33,412432,9.15,Increasing,63.86,High
+Uttar Pradesh,State,2022,41746,4.0,37729.0,4017.0,10.65,39737.5,37906.0,461312,9.05,Increasing,63.86,High
+Uttar Pradesh,State,2023,44534,4.0,41746.0,2788.0,6.68,43140.0,41336.33,480583,9.27,Increasing,63.86,High
+Uttarakhand,State,2019,1352,24.0,,,,1352.0,1352.0,456959,0.3,Stable,14.64,Low
+Uttarakhand,State,2020,1041,23.0,1352.0,-311.0,-23.0,1196.5,1196.5,372181,0.28,Decreasing,14.64,Low
+Uttarakhand,State,2021,1405,23.0,1041.0,364.0,34.97,1223.0,1266.0,412432,0.34,Increasing,14.64,Low
+Uttarakhand,State,2022,1674,23.0,1405.0,269.0,19.15,1539.5,1373.33,461312,0.36,Increasing,14.64,Low
+Uttarakhand,State,2023,1691,23.0,1674.0,17.0,1.02,1682.5,1590.0,480583,0.35,Increasing,14.64,Low
+West Bengal,State,2019,12658,12.0,,,,12658.0,12658.0,456959,2.77,Stable,28.09,Low
+West Bengal,State,2020,10863,12.0,12658.0,-1795.0,-14.18,11760.5,11760.5,372181,2.92,Decreasing,28.09,Low
+West Bengal,State,2021,11937,12.0,10863.0,1074.0,9.89,11400.0,11819.33,412432,2.89,Increasing,28.09,Low
+West Bengal,State,2022,13686,11.0,11937.0,1749.0,14.65,12811.5,12162.0,461312,2.97,Increasing,28.09,Low
+West Bengal,State,2023,13795,11.0,13686.0,109.0,0.8,13740.5,13139.33,480583,2.87,Increasing,28.09,Low

@@ -1,0 +1,24 @@
+{
+  "selected_model": "Extra Trees",
+  "training_rows": 107,
+  "testing_rows": 36,
+  "test_year": 2023,
+  "mae": 910.67,
+  "rmse": 1834.92,
+  "r2_score": 0.9893,
+  "features_used": [
+    "State",
+    "region_type",
+    "risk_category",
+    "year",
+    "years_from_start",
+    "prev_year_accidents",
+    "rolling_2yr_avg",
+    "rolling_3yr_avg",
+    "yoy_pct_change_safe",
+    "state_avg_accidents",
+    "state_latest_accidents",
+    "risk_score"
+  ],
+  "note": "Model comparison uses time-aware validation. Forecasts are academic estimates because the source data has only annual observations."
+}
